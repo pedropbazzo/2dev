@@ -6,7 +6,7 @@ import { Link } from 'react-router-dom';
 import api from '../../services/api';
 
 import './styles.css';
-import logo from '../../assets/logo.svg';
+import logo from '../../assets/logo.png';
 import dislike from '../../assets/dislike.svg';
 import like from '../../assets/like.svg';
 import itsamatch from '../../assets/itsamatch.png';
